@@ -1,0 +1,1 @@
+print("Name:Ruchitha\tAge:20\tCity:Bengaluru")

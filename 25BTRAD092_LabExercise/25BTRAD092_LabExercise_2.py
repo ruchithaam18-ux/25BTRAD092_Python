@@ -1,0 +1,10 @@
+a = float(input("Enter a number: "))
+b = float(input("Enter another number: "))
+
+print(f"Sum of {a} and {b} is: {a + b:.2f}")
+print(f"Difference of {a} and {b} is: {a - b:.2f}")
+print(f"Product of {a} and {b} is: {a * b:.2f}")
+print(f"Division of {a} and {b} is: {a / b:.2f}")
+print(f"Modulus of {a} and {b} is: {a % b:.2f}")
+print(f"Power of {a} is: {a ** a:.2f}")
+print(f"Power of {b} is: {b ** b:.2f}")
